@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Philip Simmons"
+title                    : "Construct Validated"
 title_separator          : "-"
 name                     : "Philip Simmons"
 description              : "I/O Psychology, Data Science, and the Future of Work."
