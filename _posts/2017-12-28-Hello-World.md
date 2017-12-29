@@ -8,11 +8,7 @@ categories:
   - Jekyll
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
-
-### Figures (for images or video)
-
-#### One Up
+Check.....Check.....Is this thing on? 
 
 <figure>
 	<a href="https://dars.io/wp-content/uploads/2015/06/1435934506-50d83ee90498b3e4f9578a58ff8b5880.png"><img src="https://dars.io/wp-content/uploads/2015/06/1435934506-50d83ee90498b3e4f9578a58ff8b5880.png"></a>
