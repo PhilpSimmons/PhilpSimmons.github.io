@@ -4,6 +4,7 @@ layout: single
 header:
   teaser: 
 search: false
+comments: true
 categories: Blogs
 ---
 
