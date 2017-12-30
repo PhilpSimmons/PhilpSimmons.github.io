@@ -7,15 +7,15 @@ search: false
 categories: Blogs
 ---
 
-There are several interesting blogs on the internet that are relevant to my field (I put a few in the list below). You’ll see that because these authors post rather frequently and each has a different area of expertise, it can become slightly overwhelming trying to keep up. There’s no problem with this, I/O Psychology is a multidisciplinary field. However, I do I find myself longing for a slice of the internet that contains a collection of content catered specifically to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
+There are several interesting blogs on the internet that are relevant to my field (I put a few examples in the list below). You’ll see that because these authors post rather frequently and each has a different area of expertise, it can become slightly overwhelming trying to keep up. There’s no problem with this, I/O Psychology is a multidisciplinary field. However, I do I find myself longing for a slice of the internet that contains a collection of content catered specifically to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
 
 - [Steven Guyen][link1]
 - [Neoacademic][link2]
 - [Psychological Science][link3]
 - [Unofficialgoogledatascience][link4]
 - [Rework.withgoogle][link5]
-- [Flowingdata][link6]
-- [Andrew Gelman][link7]
+- [Flowing Data][link6]
+- [Statistical Modeling, Causal Inference, and Social Science][link7]
 - [blog.rstudio][link8]
 - [Simplystatistics][link9]
 - [R-bloggers][link10]
