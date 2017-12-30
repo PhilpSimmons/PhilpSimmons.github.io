@@ -7,7 +7,7 @@ search: false
 categories: 
 ---
 
-There are several interesting blogs out there that are relevant to my field (I put a few I have bookmarked in the list below). However, you’ll find that these authors differ in the topics they write about. There’s no problem with this, but I do I find myself longing for a slice of the internet containing a collection of content that caters to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
+There are several interesting blogs that are relevant to my field (I put a few I have bookmarked in the list below). However, you’ll find that these authors differ in the topics they write about. There’s no problem with this, but I do I find myself longing for a slice of the internet containing a collection of content that caters to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
 
 - [Steven Guyen][link1]
 - [Neoacademic][link2]
