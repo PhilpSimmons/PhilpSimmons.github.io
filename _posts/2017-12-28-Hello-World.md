@@ -4,7 +4,7 @@ layout: single
 header:
   teaser: 
 search: false
-categories: Blogs
+categories: 
 ---
 
 There are several interesting blogs on the internet that are relevant to my field (I put a few examples in the list below). You’ll see that because these authors post rather frequently and each has a different area of expertise, it can become slightly overwhelming trying to keep up. There’s no problem with this, I/O Psychology is a multidisciplinary field. However, I do I find myself longing for a slice of the internet that contains a collection of content catered specifically to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
