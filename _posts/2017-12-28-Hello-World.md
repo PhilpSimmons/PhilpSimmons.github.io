@@ -2,12 +2,12 @@
 title:  "Starting Construct Validated" 
 layout: single
 header:
-  teaser: https://dars.io/wp-content/uploads/2015/06/1435934506-50d83ee90498b3e4f9578a58ff8b5880.png
+  teaser: 
 search: false
-categories: 
+categories: Blogs
 ---
 
-There are several interesting blogs that are relevant to my field (I put a few I have bookmarked in the list below). However, you’ll find that these authors differ in the topics they write about. There’s no problem with this, but I do I find myself longing for a slice of the internet containing a collection of content that caters to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
+There are several interesting blogs on the internet that are relevant to my field (I put a few in the list below). You’ll see that because these authors post rather frequently and each has a different area of expertise, it can become slightly overwhelming trying to keep up. There’s no problem with this, I/O Psychology is a multidisciplinary field. However, I do I find myself longing for a slice of the internet that contains a collection of content catered specifically to my interests. To fill this gap, I decided to start “Construct Validated”, which I hope it will become a mix of statistics, programming, and research methodology content from the perspective of an Industrial Organizational Psychologist.
 
 - [Steven Guyen][link1]
 - [Neoacademic][link2]
@@ -23,10 +23,6 @@ There are several interesting blogs that are relevant to my field (I put a few I
 - [Statistically-funny][link12]
 - [Stats with Cats][link13]
 
-
-<figure>
-	<a href="https://dars.io/wp-content/uploads/2015/06/1435934506-50d83ee90498b3e4f9578a58ff8b5880.png"><img src="https://dars.io/wp-content/uploads/2015/06/1435934506-50d83ee90498b3e4f9578a58ff8b5880.png"></a>
-</figure>
 
 [link1]: https://www.stevenguyenphd.net/blog
 [link2]: http://neoacademic.com/
