@@ -9,7 +9,7 @@ categories: Blogs
 
 There are several interesting blogs on the internet that are relevant to my field (I put a few examples in the list below). You’ll see that because these authors post rather frequently and each has a different area of expertise, it can become slightly overwhelming trying to keep up. There’s no problem with this, after all, I/O Psychology is a multidisciplinary field. However, I do I find myself longing for a slice of the internet that contains a collection of content catered specifically to my interests.
 
-To fill this gap, I decided to start “Construct Validated”. I hope this blog will become a mix of statistics, programming, methodology, and theory content from the perspective of an Industrial Organizational Psychologist. I'm not exactly sure how frequently content will be posted (I barely have time eat meals at the moment) but maybe that will change in the coming year.
+To fill this gap, I decided to start “Construct Validated”. I hope this blog will become a mix of statistics, programming, methodology, and theory from the perspective of an Industrial Organizational Psychologist. I'm not exactly sure how frequently content will be posted (I barely have time eat meals at the moment) but maybe that will change in the coming year.
 
 - [Steven Guyen][link1]
 - [Neoacademic][link2]
