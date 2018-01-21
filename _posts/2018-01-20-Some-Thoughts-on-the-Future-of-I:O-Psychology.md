@@ -7,7 +7,7 @@ comments: true
 categories: Blogs
 ---
 
-The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happened to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect [humans and society-at-large][link4] but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. Medical diagnosis, stock market trading, [music][link5], shopping, eating out, findings jobs, dating, driving, interacting with your family…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like. 
+The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happened to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect [humans and society-at-large][link4] but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. Medical diagnosis, stock market trading, [music][link5], shopping, eating out, findings jobs, dating, [driving][link6], interacting with your family…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience1.png" alt="">
 
@@ -33,7 +33,8 @@ I find myself compelled to write about these issues because there is plenty of c
 [link2]: https://blog.ycombinator.com/the-startup-zeitgeist/
 [link3]: http://www.timewellspent.io/problem/
 [link4]: https://www.researchgate.net/publication/284002412_The_interplay_between_Facebook_use_social_comparison_envy_and_depression
-[link5]:https://thebaffler.com/salvos/the-problem-with-muzak-pelly
+[link5]: https://thebaffler.com/salvos/the-problem-with-muzak-pelly
+[link5]: https://www.ucsusa.org/clean-vehicles/how-self-driving-cars-work#.WmUFv_jwY_U
 
 
 
