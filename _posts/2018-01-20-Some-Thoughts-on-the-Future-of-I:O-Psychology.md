@@ -29,7 +29,8 @@ I find myself compelled to write about these issues because there is plenty of c
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/startupzeitgeist6.png" alt="">
 
- Many of these applicants are, as Friedman put it <q>interest in applying AI to everything</q>. What caught my eye this year was the number of applicants funded by Y Combinator who are providing ML and AI based services that may directly impact the role of an I/O Psychologist (about 12% of the 82 companies total). Tech companies see the demand to solve business issues and have the talent to develop better HR data systems but will the I/O community be pleased with their approach in solving workplace issues?
+ Many of these applicants are, as Friedman put it <q>interest in applying AI to everything</q>. What caught my eye this year was the number of applicants funded by Y Combinator who are providing ML and AI based services that may directly impact the role of an I/O Psychologist (about 12% of the 82 companies total that received funding). Tech companies see the demand to solve business issues and have the talent to improve HR data systems but will the I/O community be pleased with their approach to solving workplace issues? Will we be pleased the tools they develop and when we are inevitably forced to use?
+
 
 
 
