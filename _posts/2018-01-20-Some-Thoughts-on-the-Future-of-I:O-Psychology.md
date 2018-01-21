@@ -7,7 +7,7 @@ comments: true
 categories: Blogs
 ---
 
-The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happended to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect humans and society-at-large but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. Medical diagnosis, stock market trading, music, shopping, eating out, findings jobs, dating, driving, interacting with your family…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like. 
+The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happened to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect humans and society-at-large but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. Medical diagnosis, stock market trading, music, shopping, eating out, findings jobs, dating, driving, interacting with your family…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience1.png" alt="">
 
@@ -32,6 +32,7 @@ I find myself compelled to write about these issues because there is plenty of c
 [link1]: http://www.siop.org/tip/july16/crash.aspx
 [link2]: https://blog.ycombinator.com/the-startup-zeitgeist/
 [link3]: http://www.timewellspent.io/problem/
+
 
 
 
