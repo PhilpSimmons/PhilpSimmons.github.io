@@ -32,7 +32,7 @@ I find myself compelled to write about these issues because there is plenty of c
 [link1]: http://www.siop.org/tip/july16/crash.aspx
 [link2]: https://blog.ycombinator.com/the-startup-zeitgeist/
 [link3]: http://www.timewellspent.io/problem/
-[link3]: https://www.researchgate.net/publication/284002412_The_interplay_between_Facebook_use_social_comparison_envy_and_depression
+[link4]: https://www.researchgate.net/publication/284002412_The_interplay_between_Facebook_use_social_comparison_envy_and_depression
 
 
 
