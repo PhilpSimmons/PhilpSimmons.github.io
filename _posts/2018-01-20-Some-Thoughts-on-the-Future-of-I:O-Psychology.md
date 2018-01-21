@@ -7,7 +7,7 @@ comments: true
 categories: Blogs
 ---
 
-The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happened to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect [humans and society-at-large][link4] but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. [Medical diagnosis][link8], [stock market trading][link7], [music][link5], [shopping for bombs][link10], eating out, findings jobs, dating, [driving][link6], [interacting with your family/friends][link9]…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like. 
+The progression of modern society is both amazing and anxiety inducing. Seriously, the last two decades have produced the most profound changes to the human experience in history. We also happened to open a [Pandora’s box of manipulation.][link3] I often wonder how an unregulated technology industry may affect [humans and society-at-large][link4] but these topics are better suited for a different blog post. What is indisputable, however, is that the advent of the internet, its use as a data collection instrument, and recent advances in statistical modeling has changed everything. [Medical diagnosis][link8], [stock market trading][link7], [music][link5], [shopping for bombs][link10], [findings jobs][link11], [driving][link6], [interacting with your family and friends][link9]…nearly everything we do in life is being quantified, analyzed, and used in ways we may or may not like with varying performance. 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/datascience1.png" alt="">
 
@@ -39,6 +39,7 @@ I find myself compelled to write about these issues because there is plenty of c
 [link8]: https://www.apple.com/newsroom/2017/11/apple-heart-study-launches-to-identify-irregular-heart-rhythms/
 [link9]: https://www.forbes.com/sites/ajagrawal/2016/04/20/what-do-social-media-algorithms-mean-for-you/#20011886a515
 [link10]: http://www.slate.com/blogs/future_tense/2017/09/20/amazon_s_algorithm_is_suggesting_items_frequently_bought_together_that_can.html
+[link11]: https://frrole.ai/deepsense
 
 
 
