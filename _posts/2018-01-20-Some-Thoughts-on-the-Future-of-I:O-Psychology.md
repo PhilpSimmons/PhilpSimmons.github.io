@@ -2,7 +2,7 @@
 title:  "Some Thoughts on the Future of I/O Psychology" 
 layout: single
 header:
-  overlay_image: /assets/images/datascience_775_x_330.png
+ teaser:/assets/images/datascience_775_x_330.png
 search: false
 comments: true
 categories: Blogs
