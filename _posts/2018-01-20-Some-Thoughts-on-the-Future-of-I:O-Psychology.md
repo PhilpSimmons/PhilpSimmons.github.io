@@ -27,6 +27,8 @@ It feels as though we are approach a point where we must adapt to changes in tec
 
 I find myself compelled to write about these issues because there is plenty of competition out there. [Y Combinator][link13], a successful startup incubator, has helped to fund over 1,400 companies including Airbnb, Dropbox, Reddit, Zenefits, and Gusto. Given their track record of funding successful companies, new startups entering this incubator may provide some indication of the direction of the Valley's disruptive force. Last year, in a [blog post][link2] by Y Combinator Partner, Jared Friedman, data suggested that companies are beginning to shy away from advertising as a primary revenue stream, likely because the [Google/Facebook Duopoly][link14] dominate much of the market. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/startupzeitgeist6.png" alt="">
+
 Instead companies are focusing more on software-as-a-service products - products that are purchased by consumers and do not rely on advertisements. Many of these applicants are, as Friedman put it <q>interest in applying AI to everything</q>. What caught my eye this year was the number of applicants funded by Y Combinator who are providing ML and AI based services that may directly impact the role of an I/O Psychologist (about 12% of the 82 companies total). Tech companies see the demand to solve business issues and have the talent to develop better HR data systems but will the I/O community be pleased with their approach in solving workplace issues?
 
 
