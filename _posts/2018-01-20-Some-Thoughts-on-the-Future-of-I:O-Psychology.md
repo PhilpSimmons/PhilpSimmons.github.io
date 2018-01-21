@@ -34,7 +34,7 @@ I find myself compelled to write about these issues because there is plenty of c
 [link3]: http://www.timewellspent.io/problem/
 [link4]: https://www.researchgate.net/publication/284002412_The_interplay_between_Facebook_use_social_comparison_envy_and_depression
 [link5]: https://thebaffler.com/salvos/the-problem-with-muzak-pelly
-[link5]: https://www.ucsusa.org/clean-vehicles/how-self-driving-cars-work#.WmUFv_jwY_U
+[link6]: https://www.ucsusa.org/clean-vehicles/how-self-driving-cars-work#.WmUFv_jwY_U
 
 
 
