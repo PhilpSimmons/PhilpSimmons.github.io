@@ -76,13 +76,6 @@ social:
     - "https://www.linkedin.com/in/philippsimmons/" 
     - "https://twitter.com/PhilPaulSimmons"
 
-<form action="https://formspree.io/psimmons@unomaha.edu"
-      method="POST">
-    <input type="text" placeholder="Name" name="name">
-    <input type="email" placeholder="Email" name="_replyto" required>
-    <input type="submit" value="Send">
-</form>
-
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
