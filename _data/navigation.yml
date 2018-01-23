@@ -5,6 +5,6 @@ main:
   #- title: "Posts"
     #url: /year-archive/
   - title: "R Tutorials"
-     url: /R-Tutorials/
+     url: /_pages/R-Tutorials/
   # - title: "Sitemap"
   #   url: /sitemap/
