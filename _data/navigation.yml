@@ -3,6 +3,6 @@ main:
   - title: "About Me"
     url: /about-me/
   - title: "R Tutorials"
-     url: /_pages/r-tutorials/
+     url: /r-tutorials/
   # - title: "Sitemap"
   #   url: /sitemap/
