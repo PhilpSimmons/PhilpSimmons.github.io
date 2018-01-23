@@ -2,9 +2,7 @@
 main:
   - title: "About Me"
     url: /about-me/
-  #- title: "Posts"
-    #url: /year-archive/
   - title: "R Tutorials"
-     url: /_pages/R-Tutorials/
+     url: /_pages/r-tutorials/
   # - title: "Sitemap"
   #   url: /sitemap/
