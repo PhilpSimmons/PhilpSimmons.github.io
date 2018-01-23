@@ -4,7 +4,7 @@ main:
     url: /about-me/
   #- title: "Posts"
     #url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "R Tutorials"
+  #   url: /R-Tutorials/
   # - title: "Sitemap"
   #   url: /sitemap/
